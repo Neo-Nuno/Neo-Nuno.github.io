@@ -1,1 +1,12 @@
-{"name":"John", "age":30, "car":null}
+{
+    "giftData": [
+        {
+            "id": 1,
+            "note_text":"Note 1 text ahaha"
+        },
+        {
+            "id": 2,
+            "note_text":"Note 1 text dasdwahaha"
+        }
+    ]
+} 
